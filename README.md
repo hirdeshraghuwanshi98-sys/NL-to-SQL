@@ -44,7 +44,7 @@ No SQL knowledge needed. Powered by **Llama 3.1** via OpenRouter (free).
 
 | Query Input | SQL Results |
 |---|---|
-| ![input](https://via.placeholder.com/400x200/080b14/6d6aff?text=Query+Input) | ![results](https://via.placeholder.com/400x200/080b14/a78bfa?text=SQL+Results) |
+| ![input](input.png) | ![results](results.png) |
 
 ---
 
