@@ -381,6 +381,7 @@ if __name__ == "__main__":
     print(f"  🌐 Open: http://localhost:{PORT}")
     print("  ─────────────────────────────────")
     print()
+    PORT = int(os.environ.get("PORT", 8080))
     server = HTTPServer(("", PORT), Handler)
     try:
         server.serve_forever()
