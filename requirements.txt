@@ -1,0 +1,4 @@
+# No external libraries needed!
+# Uses Python built-ins only (urllib, json, sqlite3, http.server)
+# Just run: python app.py
+python-dotenv
