@@ -17,7 +17,7 @@ load_dotenv()
 # ─── CONFIG ──────────────────────────────────────────────────────────────────
 # Get FREE key at: https://openrouter.ai → Sign In → Keys → Create Key
 # Key looks like: sk-or-xxxxxxxxxxxxxxxxxxxxxxxxxxxx
-API_KEY = ""
+API_KEY = "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"
 PORT    = 8080
 
 # ─── SAMPLE DATABASE ─────────────────────────────────────────────────────────
